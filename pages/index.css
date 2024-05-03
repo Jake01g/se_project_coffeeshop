@@ -60,14 +60,14 @@
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
-  font-family: "Noto Serif", "Times New Roman", Times;
+  font-family: "Noto Serif", "Times New Roman";
   font-style: normal;
   font-weight: 400;
 }
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", "Times New Roman", Times;
+  font-family: "Noto Serif", "Times New Roman";
   font-style: italic;
   font-weight: 400;
   font-size: 60px;
@@ -132,7 +132,7 @@
 
 .recipes__subtitle {
   color: #fff;
-  font-family: "Noto Serif", "Times New Roman", Times;
+  font-family: "Noto Serif", "Times New Roman";
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
