@@ -61,6 +61,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   font-family: "Noto Serif", "Times New Roman", serif;
+  font-weight: 400;
 }
 
 .header__span-accent {
@@ -70,6 +71,7 @@
   font-size: 60px;
   line-height: 72px;
   color: #2f80ed;
+  font-weight: 400;
 }
 
 .header__footer {
@@ -138,4 +140,5 @@
   line-height: 30px;
   margin-bottom: 80px;
   max-width: 430px;
+  font-weight: 400;
 }
