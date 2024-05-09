@@ -34,7 +34,7 @@
 
 .about__content {
   position: relative;
-  font-family: "Noto Serif", Arial, sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -48,7 +48,7 @@
 
 .about__paragraph {
   margin-top: 0;
-  margin-bottom: 20;
+  margin-bottom: 20px;
 }
 
 .about__paragraph:last-child {
