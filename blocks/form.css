@@ -24,6 +24,7 @@
   margin-bottom: 32px;
   border-style: solid;
   border-color: #838383;
+  border-width: 1px;
 }
 
 .form__input::placeholder {
