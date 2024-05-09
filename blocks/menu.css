@@ -17,12 +17,9 @@
 }
 
 .menu__subtitle {
-  display: flex;
   text-align: center;
-  justify-content: center;
-  align-self: center;
   max-width: 780px;
-  margin: 0 0 100px;
+  margin: 0 auto 100px;
   font-family: "Noto Serif", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;

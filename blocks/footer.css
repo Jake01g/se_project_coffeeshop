@@ -55,6 +55,7 @@
   font-size: 16px;
   line-height: 20px;
   text-decoration: none;
+  transition: color 0.5s;
 }
 
 .footer__social-link:hover {
@@ -69,6 +70,6 @@
   font-size: 16px;
   line-height: 20px;
   padding: 0 0 60px 80px;
-  margin-top: 0;
+  margin-top: 108px;
   margin-bottom: 0;
 }
